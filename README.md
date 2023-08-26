@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RjSup
+- 👋 Hi, I’m Ryan
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning JavaScript, C/C++ @ university
 
