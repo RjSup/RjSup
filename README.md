@@ -1,4 +1,4 @@
-## 🖥️ Languages & Tools:
+## Languages & Tools:
 
 ### **Languages**
 <p align="left">
